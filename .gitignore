@@ -16,3 +16,4 @@ vector_store/*.index
 # Env
 venv/
 .env
+data/filtered_complaints.csv
