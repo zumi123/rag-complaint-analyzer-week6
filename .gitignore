@@ -5,7 +5,7 @@ __pycache__/
 
 # Data
 data/raw/*
-!data/filtered_complaints.csv
+data/filtered_complaints.csv
 
 # Vector stores
 vector_store/*.index
@@ -16,4 +16,4 @@ vector_store/*.index
 # Env
 venv/
 .env
-data/filtered_complaints.csv
+
